@@ -1,0 +1,69 @@
+.bodymain {
+	FONT-SIZE: 10pt; MARGIN-LEFT: 15px; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.bodymain_old {
+	BACKGROUND-IMAGE: url(images/main_bg2.gif); BACKGROUND-REPEAT: repeat-x
+}
+.bodydir {
+	FONT-SIZE: 10pt; BACKGROUND-IMAGE: url(images/dir_bg.gif); MARGIN: 0px; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f7be5a
+}
+.bodytop {
+	FONT-SIZE: 10pt; BACKGROUND-IMAGE: url(images/top_bg.gif); MARGIN: 0px; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f7be5a
+}
+P {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.text {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.textbold {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; LINE-HEIGHT: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial8 {
+	FONT-SIZE: 8pt; LINE-HEIGHT: 11pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial9 {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial10 {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial11 {
+	FONT-SIZE: 11pt; LINE-HEIGHT: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial12 {
+	FONT-SIZE: 12pt; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial13 {
+	FONT-SIZE: 13pt; LINE-HEIGHT: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.arial14 {
+	FONT-SIZE: 14pt; LINE-HEIGHT: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; LINE-HEIGHT: 24pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; LINE-HEIGHT: 20pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A:link {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #777777; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #777777; TEXT-DECORATION: underline
+}
+.Menu {
+	CURSOR: hand
+}
+.Dekorbild_Klein {
+	FONT-SIZE: 8pt; COLOR: #000000; LINE-HEIGHT: 11pt; FONT-FAMILY: verdena,arial,helvetica,sans-serif; TEXT-DECORATION: none
+}

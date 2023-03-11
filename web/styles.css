@@ -1,0 +1,130 @@
+.normaltext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF; line-height: 14px}
+.articletitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; line-height: 13px}
+.articletext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #002246; line-height: 13px}
+.links {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; list-style-type: disc; line-height: 15pt}
+.maintextBlk { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; line-height: 15px; vertical-align: top; text-align: left }
+.maintextGray { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; color: #666666; line-height: 15px; vertical-align: top; text-align: left }
+a:link { font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; list-style-type: disc; line-height: 11px; color: #002142}
+a:hover { font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; list-style-type: disc; line-height: 11px; color: #669999}
+.normaltextGrey { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #666666; line-height: 14px}
+a:visited { font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; list-style-type: disc; line-height: 11px; color: #999999}
+a:active { font-family: Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; list-style-type: disc; line-height: 11px; color: #666666}
+.baseline { font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #002246; line-height: 11px; vertical-align: top; text-align: center; font-style: normal; font-weight: normal}
+.smarticletext { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #002246; line-height: 12px}
+.articletext_blk { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #000000; line-height: 11px}
+.articletext_form { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #002246}
+
+
+.titletext { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			16px;
+	line-height:		20px;
+	color: 				#333333;
+	vertical-align:		top;
+	text-align:			left;
+	font-weight:		bold;
+	text-decoration:	none;
+}
+
+.maintext { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333333;
+	vertical-align:		top;
+	font-weight:		normal;
+	text-decoration:	none;
+}
+
+a.maintext { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333355;
+	vertical-align:		top;
+	font-weight:		bold;
+	text-decoration:	none;
+}
+
+a.maintext:hover { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333355;
+	vertical-align:		top;
+	font-weight:		bold;
+	text-decoration:	underline;
+}
+
+a.maintext:visited { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333355;
+	vertical-align:		top;
+	font-weight:		bold;
+	text-decoration:	none;
+}
+
+a.maintext:visited:hover { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333355;
+	vertical-align:		top;
+	font-weight:		bold;
+	text-decoration:	underline;
+}
+
+.boldtext { 
+	font-family:		Verdana, Arial, Helvetica, sans-serif;
+	font-size:			12px;
+	line-height:		16px;
+	color: 				#333333;
+	vertical-align:		top;
+	text-align:			left;
+	font-weight:		bold;
+	text-decoration:	none;
+}
+
+
+.homeslogan {
+	font-family:		Times New Roman, serif; 
+	font-size:			14px;
+	font-style:			italic;
+	font-weight:		bold;
+	text-decoration:	none;
+	line-height:		20px;
+	color:				#461100;
+}
+
+
+a.navitem {
+	font-family:		Helvetica, Verdana, Arial, sans-serif; 
+	font-size:			16px;
+	font-style:			normal;
+	font-weight:		bold;
+	text-decoration:	none;
+	line-height:		20px;
+	color:				#863300;
+}
+
+a.navitem:visited {
+	font-family:		Helvetica, Verdana, Arial, sans-serif; 
+	font-size:			16px;
+	font-style:			normal;
+	font-weight:		bold;
+	text-decoration:	none;
+	line-height:		20px;
+	color:				#863300;
+}
+
+a.navitem:hover { 	
+	font-family:		Helvetica, Verdana, Arial, sans-serif; 
+	font-size:			16px;
+	font-style:			normal;
+	font-weight:		bold;
+	text-decoration:	none;
+	line-height:		20px;
+	color:				#461100; 
+}
